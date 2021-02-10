@@ -1,0 +1,22 @@
+INSERT INTO blogful_articles (title, date_published, content)
+VALUES
+    ('Blog Post 1', now(), 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec imperdiet.'),
+    ('Blog Post 2', now(), 'Nunc blandit diam quis imperdiet auctor. Nam semper viverra nibh.'),
+    ('Blog Post 3', now(), 'Vivamus consequat porta mollis. Sed tincidunt, dolor sed varius venenatis.'),
+    ('Blog Post 4', now(), 'Donec sit amet fringilla eros. Pellentesque id erat volutpat urna.'),
+    ('Blog Post 5', now(), 'Nunc ut dui euismod nibh cursus pretium. Aenean purus sem.'),
+    ('Blog Post 6', now(), 'Nulla scelerisque tellus purus. Praesent in elit vehicula, feugiat tortor.'),
+    ('Blog Post 7', now(), 'Sed non nisl odio. Vivamus viverra, nunc eget efficitur pulvinar.'),
+    ('Blog Post 8', now(), 'Sed eros mauris, viverra eu efficitur et, dignissim id nisl.'),
+    ('Blog Post 9', now(), 'Mauris a maximus magna, et fermentum dui. Sed lobortis, justo.'),
+    ('Blog Post 10', now(), 'Fusce tincidunt eros in diam scelerisque, eu ultrices nunc vulputate.'),
+    ('Blog Post 11', now(), 'Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.'),
+    ('Blog Post 12', now(), 'Nulla cursus nulla eu elementum tristique. Donec nulla tellus, vehicula.'),
+    ('Blog Post 13', now(), 'In hac habitasse platea dictumst. Nam lobortis, nisl quis dictum.'),
+    ('Blog Post 14', now(), 'Praesent rhoncus sit amet leo sed tincidunt. Donec dapibus elit.'),
+    ('Blog Post 15', now(), 'Morbi quis lectus sodales, mattis orci in, elementum lacus. Mauris.'),
+    ('Blog Post 16', now(), 'Maecenas vestibulum sodales eros, auctor tincidunt purus. Integer interdum velit.'),
+    ('Blog Post 17', now(), 'Vestibulum non metus eleifend, gravida ligula ac, suscipit nisi. Duis.'),
+    ('Blog Post 18', now(), 'Curabitur id nunc purus. In lorem sem, tincidunt et pellentesque.'),
+    ('Blog Post 19', now(), 'In porta metus nec rhoncus hendrerit. Pellentesque vestibulum imperdiet vestibulum.'),
+    ('Blog Post 20', now(), 'In leo lorem, consequat sit amet nulla et, eleifend porttitor.');
